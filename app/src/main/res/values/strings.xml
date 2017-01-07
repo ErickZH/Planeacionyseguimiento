@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Planeacionyseguimiento</string>
+    <string name="user">USUARIO</string>
+    <string name="password">PASSWORD</string>
+    <string name="btn_iniciar">Iniciar Sesión</string>
+    <string name="tnm">TECNOLÓGICO NACIONAL DE MEXICO</string>
+    <string name="itch">INSTITUTO TECNÓLOGICO DE CHILPANCINGO</string>
+    <string name="pys">PLANEACIÓN Y SEGUMIENTO DE MATERIAS</string>
+    <string name="sm">SELECCIONA UNA MATERIA</string>
+    <string name="sma">SIN MATERIAS ASIGNADAS</string>
+    <string name="pr">PLANEACIONES REALIZADAS</string>
+    <string name="m">MATERIA:</string>
+    <string name="p">PERIODO:</string>
+    <string name="te">TEXTO EJEMPLO</string>
+
+    <string-array name="periodos">
+        <item>FEBRERO-JUNIO</item>
+        <item>AGOSTO-DICIEMBRE</item>
+    </string-array>
+</resources>
